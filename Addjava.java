@@ -1,4 +1,4 @@
-public class Addjava {
+ class Addjava {
 
    public static void main(String[] args) {
         
